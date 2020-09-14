@@ -1,8 +1,18 @@
 # Team_Software_Project
-csc
-nghdcghg
-hjfdhggjmhh
-=======================
+Team Member
+===============
 
-gfsaedhghgjedsgf
-=========================
+
+
+
+
+Software Requrment
+=====================
+
+
+
+
+
+
+Objective 
+-================
